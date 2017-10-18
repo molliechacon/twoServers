@@ -1,0 +1,23 @@
+{
+  "name": "twoservers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molliechacon/twoServers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molliechacon/twoServers/issues"
+  },
+  "homepage": "https://github.com/molliechacon/twoServers#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
